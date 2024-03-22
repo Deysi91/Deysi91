@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deysi91
+- 👋 Hi, I’m Deysi
 - 👀 I’m interested in Cybersecurity and Technology.
 - 🌱 I’m currently learning Python, SQL, and securing networks.
 - 💞️ I’m looking to collaborate on available projects to gain hands-on skills.
